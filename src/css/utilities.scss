@@ -1,0 +1,9 @@
+$base_font_size: 16px;
+
+@function rem-convertor($var_size) {
+  @return ($var_size / $base_font_size) * 1rem;
+}
+
+@function em-convertor($var_size, $parent_font_size: $base_font_size) {
+  @return ($var_size / $parent_font_size) * 1em;
+}

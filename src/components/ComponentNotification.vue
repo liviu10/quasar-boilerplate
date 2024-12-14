@@ -1,6 +1,6 @@
 <template>
   <div class="component">
-    <div class="component__card-services">
+    <div class="component__notification">
     </div>
   </div>
 </template>

@@ -1,6 +1,6 @@
 <template>
   <div class="component">
-    <div class="component__card-testimonials">
+    <div class="component__gallery">
     </div>
   </div>
 </template>
