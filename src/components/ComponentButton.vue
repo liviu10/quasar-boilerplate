@@ -1,7 +1,8 @@
 <template>
-  <q-page class="row items-center justify-evenly">
-
-  </q-page>
+  <div class="component">
+    <div class="component__button">
+    </div>
+  </div>
 </template>
 
 <script setup lang="ts"></script>
